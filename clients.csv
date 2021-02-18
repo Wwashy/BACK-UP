@@ -1,0 +1,172 @@
+refNo,firstname,lastname,surname,Phone,residence,yob,gender,r_date
+1,tabitha,opul,,0727604956,"lambwe paga",1985,female,2020-09-14
+11,ibrahim,Jiro,,0721138967,"homabay town",1982,male,2020-09-14
+21,Mark,Ojowa,,0722897476,Sofia,1985,male,2020-09-14
+31,Faith,Akinyi,Ouma,0790844481,"shauri yako",1988,female,2020-09-15
+41,stephanie,Amondi,ochieng,0724986428,"got rabuor",2004,female,2020-09-15
+51,Bill,Ng'uono,,0708007210,Kochia,2014,male,2020-09-15
+61,carol,musimbi,,,homabay,1988,female,2020-09-15
+71,cynthia,karen,,0725591465,"got rabuor",1997,female,2020-09-16
+81,colleta,osewe,,0713123721,ogande,1971,female,2020-09-16
+91,beril,awuor,,0798898713,ndhiwa,1998,female,2020-09-16
+101,Renice,Achieng,Onyango,0729263602,Ratang'a,1988,female,2020-09-16
+111,Dorine,Achieng,Ogolla,0716968638,Rodi,1997,female,2020-09-17
+121,Winnie,Atieno,,0741825619,Rodi,1993,female,2020-09-17
+131,Abdul,Samat,,0708352183,"homabay town",2011,male,2020-09-17
+141,Peter,ogolla,omondi,0710502962,Malela,1995,male,2020-09-17
+151,Brutus,Ali,,0701322625,,1997,male,2020-09-17
+161,Antipas,Karakula,,0724628953,Gendia,1960,male,2020-09-17
+171,Esther,Akinyi,,0721154193,kagan,2011,female,2020-09-18
+181,gladys,Aloo,gor,0794275197,kapita,2001,female,2020-09-20
+191,deril,mukoge,,0716500534,rongo,2003,female,2020-09-20
+201,Everline,Achieng,Otieno,0728559708,"Gem rangwe",1987,female,2020-09-22
+211,Ben,Aseto,,0720939387,"Karachuonyo north",1940,male,2020-09-22
+221,Millicent,achieng,,0700228300,"shauri yako",1989,female,2020-09-23
+231,Kennedy,Bana,,0722523951,Arunda,1991,male,2020-09-23
+241,Evance,otieno,,0706878143,chiga,1992,male,2020-09-24
+251,betty,awuor,,0791170863,maram,2001,female,2020-09-24
+261,Gilbert,Osano,,0722340680,Karachuonyo,1952,male,2020-09-24
+271,Nancy,Atieno,,0715179856,,1984,female,2020-09-24
+281,Everline,akoth,,0791746078,,1976,female,2020-09-25
+291,joyce,molo,,0716723873,,1974,female,2020-09-25
+301,david,omondi,,0796854279,,2001,male,2020-09-25
+311,samwel,omuga,,0700325250,,1995,male,2020-09-25
+321,mary,oginga,,0723590593,,1997,female,2020-09-25
+331,Erick,Ochieng,,,,1978,male,2020-09-25
+341,mary,nandia,,0710905306,sori,1986,female,2020-09-27
+351,tevins,ologi,,0729632826,"shauri yako",1996,male,2020-09-27
+361,malen,abegael,,0720713763,sori,2013,female,2020-09-27
+371,Clement,rabala,,0722143378,kochia,1983,male,2020-09-27
+381,michael,juma,,0722991370,kagan,1982,male,2020-09-28
+391,risper,odhiambo,,0702181370,gwasi,1989,female,2020-09-29
+401,anne,adhiambo,oluoch,0721831869,sofia,1969,female,2020-09-29
+411,Eunice,Akumu,Oketch,0703194424,Wiga,1962,female,2020-09-29
+421,Kerina,ogutu,,0716567163,,1945,female,2020-09-30
+431,timothy,joel,,0726941294,,2013,male,2020-09-30
+441,ceril,abich,,0711811275,,1993,male,2020-09-30
+451,sheila,adhiambo,,0743762373,sango,1997,female,2020-09-30
+461,Beril,lumumba,,0719477437,"got rabuor",1990,female,2020-10-01
+471,sharon,osunda,,0790783080,ndhiwa,2000,female,2020-10-01
+481,Abdul,Isaac,,0740683212,homabay,2001,male,2020-10-01
+491,Julius,omondi,,0726554292,sofia,1989,male,2020-10-01
+501,Jannet,Atieno,,0700442150,Mbita,1995,female,2020-10-02
+511,Dishon,Gogi,Awino,0724399685,Homabay,1949,male,2020-10-02
+521,Lilian,Atieno,,0704948635,,1999,female,2020-10-02
+531,Nancy,odero,,0720596658,,1982,female,2020-10-02
+541,juliet,anyango,,0751606875,,1986,,2020-10-02
+551,silvia,ogonda,,0726715983,sofia,1982,female,2020-10-04
+561,irine,auma,,0708101615,rachuonyo,1987,female,2020-10-05
+571,duke,denish,,0728496739,,1995,male,2020-10-05
+581,kerina,adhiambo,,0701078805,arujo,2002,female,2020-10-05
+591,Michael,Olunga,,,Kapita,1973,male,2020-10-05
+601,Judith,Adhiambo,,0719364881,"Junction kodoyo",1985,female,2020-10-05
+611,fenny,oracha,,0792769679,,1987,female,2020-10-05
+621,esther,auma,ng'ongo,,,1945,female,2020-10-05
+631,Bill,Devis,,0717087367,Kindu,2014,male,2020-10-06
+641,allan,okoth,,0718820363,,1990,male,2020-10-07
+651,Robert,Carlos,,0725130294,,2004,male,2020-10-07
+661,Salome,Onyango,,010070345,,1999,female,2020-10-07
+671,murale,keith,,0712839116,,2014,female,2020-10-07
+681,Josphine,nelson,,0718108809,,1991,female,2020-10-07
+691,Rasto,Carlos,,0740649060,,2015,male,2020-10-08
+701,Mary,Otieno,,0713686445,,1948,female,2020-10-08
+711,Ryan,Gift,,0719387551,"got rabuor",2015,,2020-10-09
+721,Dorcas,Onyango,,0703796731,Kapita,1950,female,2020-10-09
+731,Annah,Otieno,,0718806911,Kambeke,1978,female,2020-10-09
+741,Trevis,Okello,Mboya,0757747344,Kapita,2011,male,2020-10-11
+751,Edward,Odundo,,0729845231,,1977,male,2020-10-11
+761,mary,auma,,0726069311,,1970,female,2020-10-19
+771,sylvester,odiwuor,,0704365810,,1992,male,2020-10-19
+781,steve,biko,,0799621015,"shauri yako",1998,male,2020-10-19
+791,fredrick,chilluba,,,,1988,male,2020-10-19
+801,vivian,adhiambo,,,,1994,female,2020-10-19
+811,daniel,onyango,,0723510910,,1956,male,2020-10-22
+821,covazin,akwino,abuya,0716796699,ndhiwa,2003,female,2020-10-22
+831,teddy,auko,,0759946921,lala,2000,male,2020-10-22
+841,sophy,Aluoch,,0728255009,,1982,female,2020-10-22
+851,josphine,afundi,,0718108809,,1991,female,2020-10-22
+861,StanceLaus,Otieno,,,,1990,female,2020-10-22
+871,Elaih,anabelle,,0708730006,,2016,female,2020-10-22
+891,reagan,abudo,,,,1987,male,2020-10-28
+901,samuel,kimani,,0702269449,,1994,male,2020-10-28
+911,elly,ouko,,0702613724,,1991,male,2020-10-28
+912,Hamphy,otieno,,0720748464,,2012,male,2020-10-28
+922,Simeon,karan,,0796817810,,1992,male,2020-10-28
+931,lucy,auma,,0757455748,,1999,male,2020-10-28
+941,susan,akinyi,,,,2014,female,2020-10-28
+951,melissa,augel,,0768329377,,2013,female,2020-10-28
+961,Israel,oguna,,,,1951,male,2020-10-28
+981,emmanuel,owino,,,,2013,male,2020-10-28
+991,laureen,akoth,,0727040847,,2005,female,2020-10-28
+1001,joan,adhiambo,,0759338863,,1991,female,2020-10-28
+1011,Ephy,Awuor,Otieno,0720434720,Kabuoch,2002,,2020-11-05
+1021,Mary,Okello,,0712172148,Ongeng,1986,female,2020-11-05
+1031,Nancy,Awuor,,0726065471,Kindu,1995,female,2020-11-05
+1041,"Bevah ","Achieng ",,0700173068,Kabuoch,2002,female,2020-11-06
+1051,Fredrick,Omondi,,0702027388,,1983,male,2020-11-06
+1061,Fidel,Nyadiero,,0717720619,,1996,,2020-11-06
+1071,"Mary ",Achieng,,0700030767,,1992,female,2020-11-06
+1081,"Eunice ",Adhiambo,,0716539113,,1990,female,2020-11-06
+1091,"Elizabeth ",adoyo,,0727328943,,1977,female,2020-11-08
+1101,Rodgers,Otieno,,0758020863,,2003,male,2020-11-10
+1111,Merlin,abigael,,0720713763,Sori,2013,female,2020-11-10
+1121,Easther,akinyi,,0721154193,Karachuonyo,2011,female,2020-11-10
+1131,Francis,oracha,,0727873854,rodi,1938,male,2020-11-10
+1141,Francis,oracha,,0727873854,rodi,1938,male,2020-11-10
+1151,Hidren,Frania,,075883443,Homabay,2014,male,2020-11-10
+1161,Hezbone,wanga,,0701767435,,1999,male,2020-11-10
+1171,Joyce,Nduyi,,0708173548,Homabay,1994,female,2020-11-10
+1181,Lilian,okello,,0729210297,Kabunde,1987,female,2020-11-10
+1191,David,opiyo,,0723528914,,2003,male,2020-11-10
+1201,Simon,otieno,ochola,0757579760,Shauriyako,1999,male,2020-11-10
+1211,Belinda,Atieno,,0791163911,Ogandi,1996,female,2020-11-13
+1221,Joyce,otieno,,0719846411,Homabay,1992,female,2020-11-13
+1231,Belinda,atieno,,0791163911,Ogandi,1996,female,2020-11-13
+1241,Charles,kombo,,0728537738,,1975,male,2020-11-13
+1251,Daniel,aroko,,0726479980,,1995,male,2020-11-13
+1261,George,Okoth,,0794347086,,1985,male,2020-11-13
+1271,"Winnie ",joel,,0783513079,Homabay,1991,female,2020-11-17
+1281,David,Miruka,,0711124139,Waondo,1972,male,2020-11-17
+1291,David,Otieno,,0743824508,Makongeni,1997,male,2020-11-17
+1301,Agness,Atieno,,0716798298,,1981,female,2020-11-17
+1311,Agness,Atieno,,0716798298,,1981,female,2020-11-17
+1321,Florence,oseno,,0792135824,,1995,female,2020-11-17
+1331,Rose,atieno,,0729517713,,1975,female,2020-11-17
+1341,Evance,Odieng,,0757297908,,2002,male,2020-11-17
+1351,"Joshua ",abuto,,0706083232,Homabay,1994,male,2020-11-17
+1361,Chelse,vera,,0710552610,,2005,female,2020-11-18
+1371,"Walter ",wandi,,0715391429,,1990,male,2020-11-18
+1381,Kalmax,Omondi,,0700496164,,1999,male,2020-11-18
+1391,Elijah,Ogombo,,0721494559,,1980,male,2020-11-18
+1401,Benjamin,otiso,,071285760,Homabay,1987,male,2020-11-18
+1411,Jibril,Mohammad,,0759506774,Rodi,2000,male,2020-11-18
+1421,Pascal,okutho,Wito,0704025465,,1955,male,2020-11-18
+1431,Fred,otieno,okeyo,0753053869,homabay,1996,male,2020-11-18
+1441,Charles,oketch,,0733445465,Rusinga,2003,male,2020-11-19
+1451,Jacktone,oganga,,0733445465,Rusinga,2000,male,2020-11-19
+1461,Bridgit,Anet,,0710913139,Suba,2001,female,2020-11-19
+1471,Kennedy,odiwuor,,0720434720,Homabay,1995,female,2020-11-19
+1481,Jacklyn,auma,,0718100102,Homabay,1993,female,2020-11-19
+1491,Joseph,odhiambo,,0715537550,,2012,male,2020-11-19
+1501,Rashid,ochieng,,0701042745,,1995,male,2020-11-19
+1511,James,otieno,akeyo,0714639045,Nyalkinyi,1975,male,2020-11-19
+1521,Alfayo,otieno,,0714639045,Nyalkinyi,1972,male,2020-11-19
+1531,Oseko,odongo,,0790877799,Koduogo,1977,male,2020-11-23
+1541,Boaz,Okoth,,0727020563,Sori,1980,male,2020-11-23
+1551,Lucy,akinyi,,0724295904,Sori,1996,female,2020-11-23
+1561,Rose,Daraza,,0713836167,Ndhiwa,1974,female,2020-11-23
+1571,Milka,anyango,,0709215506,Homabay,1985,female,2020-11-23
+1581,Azenarth,shamidah,,0704394688,Kindubay,2010,female,2020-11-23
+1591,James,Okatch,,0723984496,,1978,male,2020-11-23
+1601,James,Okatch,,0723984496,,1978,male,2020-11-23
+1611,Susan,Akoth,,0721374488,,1986,female,2020-11-23
+1621,Derrick,Omondi,,0726884509,,2006,male,2020-11-23
+1631,Claire,Anyango,,0726884509,,2013,female,2020-11-23
+1641,Ashtone,kishui,okanda,0716809359,Rusinga,2015,male,2020-11-25
+1651,Agness,Awino,Opiyo,0757557457,Migori,1985,female,2020-11-25
+1661,Edwin,Okoth,,0721569953,Homabay,1998,male,2020-11-25
+1671,Zaituni,otolo,,0722572323,,1994,male,2020-11-25
+1681,Maria,ngariama,,0714138584,Lambwe,1944,female,2020-11-26
+1691,Edwin,otondo,,0740302702,Homabay,1998,female,2020-11-26
+1701,Seth,ochieng,,0704432276,,1990,male,2020-11-26
+1711,Charles,nyauke,,0716796098,Homabay,1959,male,2020-11-26

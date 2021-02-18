@@ -1,0 +1,195 @@
+id,refNo,tooth,dx,rx,bill,paymentStatus,dentist,assistant,s_date,s_time
+1,1,28,retainedroot,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-14,07:20:00
+11,11,38,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-14,13:53:00
+21,21,"not selected","not selected",consultation,200,P,"Teresa Awuor","washington Omondi",2020-09-14,14:07:00
+31,41,21,"not selected","replacement permanent",10000,P,"Teresa Awuor","washington Omondi",2020-09-15,06:55:00
+41,31,17,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-15,06:57:00
+51,31,47,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-15,06:58:00
+61,51,75,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-15,08:35:00
+71,51,85,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-15,08:35:00
+81,61,47,cavity,extraction,700,P,"Mourine Awuor","washington Omondi",2020-09-15,22:51:00
+91,91,37,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-16,07:21:00
+101,81,17,cavity,"RCT upper molars",5000,P,"Teresa Awuor","washington Omondi",2020-09-16,08:12:00
+111,81,26,cavity,filling,2000,P,"Teresa Awuor","washington Omondi",2020-09-16,08:12:00
+121,81,15,"not selected","RCT upper molars",5000,P,"Teresa Awuor","washington Omondi",2020-09-16,08:16:00
+131,81,16,"not selected","RCT upper molars",5000,P,"Teresa Awuor","washington Omondi",2020-09-16,08:16:00
+141,81,17,"not selected","RCT upper molars",5000,P,"Teresa Awuor","washington Omondi",2020-09-16,08:20:00
+151,101,38,cavity,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-16,14:12:00
+161,111,38,cavity,extraction,700,P,"Mourine Awuor","washington Omondi",2020-09-17,06:09:00
+171,121,38,cavity,extraction,700,P,"Mourine Awuor","washington Omondi",2020-09-17,09:33:00
+181,131,"not selected","not selected",consultation,200,P,"Mourine Awuor","washington Omondi",2020-09-17,09:37:00
+191,141,24,cavity,extraction,700,P,"Mourine Awuor","washington Omondi",2020-09-17,09:44:00
+201,151,"not selected","not selected",consultation,200,P,"Mourine Awuor","washington Omondi",2020-09-17,10:10:00
+211,161,17,perio,consultation,200,P,"Mourine Awuor","washington Omondi",2020-09-17,10:25:00
+221,71,"not selected","not selected",consultation,200,P,"Teresa Awuor","washington Omondi",2020-09-16,09:32:00
+231,171,46,cavity,filling,2000,P,"Mourine Awuor","washington Omondi",2020-09-18,11:53:00
+251,171,85,cavity,filling,2000,P,"Mourine Awuor","washington Omondi",2020-09-18,11:54:00
+261,171,16,cavity,"RCT lower molars",4000,P,"Mourine Awuor","washington Omondi",2020-09-18,12:00:00
+271,191,"not selected","not selected",splinting,3000,P,"Teresa Awuor","washington Omondi",2020-09-20,09:18:00
+281,181,17,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-20,09:23:00
+291,201,28,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-22,07:54:00
+311,211,36,fructured,filling,2000,P,"Teresa Awuor","washington Omondi",2020-09-22,13:06:00
+321,221,24,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-23,09:48:00
+331,231,25,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-23,14:14:00
+351,241,37,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-24,06:34:00
+361,261,48,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-24,08:36:00
+371,251,"not selected","not selected",consultation,200,P,"Teresa Awuor","washington Omondi",2020-09-24,09:49:00
+381,271,"not selected","not selected",consultation,200,P,"Mourine Awuor","washington Omondi",2020-09-24,09:51:00
+391,281,18,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-25,06:31:00
+401,291,17,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-25,06:50:00
+411,301,21,"not selected","replacement temporary",4000,P,"Teresa Awuor","washington Omondi",2020-09-25,08:51:00
+431,321,73,overretained,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-25,12:31:00
+441,321,38,impacted,"disimpaction closed",1500,P,"Mourine Awuor","washington Omondi",2020-09-25,12:32:00
+451,311,37,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-25,12:35:00
+461,331,"not selected","not selected",FMS,3000,P,"Teresa Awuor","washington Omondi",2020-09-25,14:14:00
+471,331,34,carious,filling,2000,P,"Teresa Awuor","washington Omondi",2020-09-25,14:15:00
+481,331,35,carious,filling,2000,P,"Teresa Awuor","washington Omondi",2020-09-25,14:15:00
+491,341,38,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-27,08:12:00
+501,361,"not selected","not selected",consultation,200,P,"Teresa Awuor","washington Omondi",2020-09-27,09:33:00
+511,351,48,impacted,"disimpaction closed",1500,P,"Teresa Awuor","washington Omondi",2020-09-27,09:34:00
+521,371,37,carious,"RCT lower molars",4000,P,"Teresa Awuor","washington Omondi",2020-09-27,09:37:00
+531,381,47,carious,extraction,700,P,"Teresa Awuor","washington Omondi",2020-09-28,13:04:00
+541,381,48,impacted,"disimpaction closed",1500,P,"Teresa Awuor","washington Omondi",2020-09-28,13:04:00
+551,401,46,"retained root",extraction,700,P,"teresa awuor","washington omondi",2020-09-29,07:35:00
+561,391,25,carious,filling,2000,P,"teresa awuor","washington omondi",2020-09-29,07:48:00
+571,391,48,carious,filling,2000,P,"teresa awuor","washington omondi",2020-09-29,07:49:00
+601,411,27,carious,extraction,700,P,"teresa awuor","washington omondi",2020-09-29,13:36:00
+621,421,"not selected","missing tooth","tooth cementing",2000,P,"Maureen Awuor","washington omondi",2020-09-30,11:46:00
+631,451,14,carious,extraction,700,P,"Maureen Awuor","washington omondi",2020-09-30,12:33:00
+641,441,17,carious,extraction,700,P,"teresa awuor","washington omondi",2020-09-30,12:38:00
+651,431,75,carious,extraction,700,P,"teresa awuor","washington omondi",2020-09-30,12:39:00
+661,461,24,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-01,06:44:00
+671,461,25,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-01,06:44:00
+681,471,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-01,06:51:00
+691,481,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-01,06:54:00
+711,491,38,carious,extraction,700,P,"Maureen Awuor","washington omondi",2020-10-01,08:59:00
+721,501,28,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-02,06:52:00
+731,521,"not selected","not selected",splinting,3000,P,"teresa awuor","washington omondi",2020-10-02,09:07:00
+741,531,27,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-02,18:35:00
+751,541,16,carious,"RCT upper molars",5000,P,"teresa awuor","washington omondi",2020-10-02,18:46:00
+761,551,all,"not selected",FMS,3000,P,"teresa awuor","washington omondi",2020-10-04,09:06:00
+771,551,26,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-04,09:07:00
+781,571,"not selected","not selected",consultation,200,P,"teresa awuor","washington omondi",2020-10-05,06:32:00
+791,561,17,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-05,06:34:00
+801,581,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-05,09:47:00
+811,591,47,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-05,09:55:00
+821,601,"not selected","not selected",consultation,200,P,"teresa awuor","washington omondi",2020-10-05,10:09:00
+831,611,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-05,10:12:00
+841,621,"not selected","not selected",consultation,200,P,"teresa awuor","washington omondi",2020-10-05,10:15:00
+851,631,73,"over retained",extraction,700,P,"teresa awuor","washington omondi",2020-10-06,07:43:00
+861,391,24,carious,filling,2000,P,"Maureen Awuor","washington omondi",2020-10-06,09:34:00
+871,641,11,fructured,RCT,3000,P,"teresa awuor","washington omondi",2020-10-07,08:33:00
+881,641,12,"abss ca",RCT,3000,P,"teresa awuor","washington omondi",2020-10-07,08:33:00
+891,641,21,fructured,extraction,700,P,"teresa awuor","washington omondi",2020-10-07,08:34:00
+901,661,37,"retained root",extraction,700,P,"teresa awuor","washington omondi",2020-10-07,10:37:00
+911,651,52,"over retained",extraction,700,P,"Maureen Awuor","washington omondi",2020-10-07,10:38:00
+921,651,54,"over retained",extraction,700,P,"Maureen Awuor","washington omondi",2020-10-07,10:38:00
+931,671,"not selected","not selected",consultation,200,P,"Maureen Awuor","washington omondi",2020-10-07,12:38:00
+941,681,"not selected","not selected",consultation,200,P,"Maureen Awuor","washington omondi",2020-10-07,12:47:00
+951,691,"not selected","not selected",consultation,200,P,"Maureen Awuor","washington omondi",2020-10-08,08:02:00
+961,711,55,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-09,07:53:00
+971,711,84,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-09,07:53:00
+981,731,12,"retained root",extraction,700,P,"teresa awuor","washington omondi",2020-10-09,10:25:00
+991,731,21,"retained root",extraction,700,P,"teresa awuor","washington omondi",2020-10-09,10:25:00
+1001,731,22,"retained root",extraction,700,P,"teresa awuor","washington omondi",2020-10-09,10:25:00
+1011,731,"not selected","not selected","replacement temporary",4000,P,"teresa awuor","washington omondi",2020-10-09,10:25:00
+1021,721,all,perio,FMS,3000,P,"teresa awuor","washington omondi",2020-10-09,18:53:00
+1031,741,64,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-11,09:50:00
+1041,751,16,"abss ca",extraction,700,P,"teresa awuor","washington omondi",2020-10-11,09:59:00
+1051,751,26,"abss ca",extraction,700,P,"teresa awuor","washington omondi",2020-10-11,09:59:00
+1061,621,15,perio,extraction,700,P,"teresa awuor","washington omondi",2020-10-13,07:24:00
+1071,751,12,"abss ca",RCT,3000,P,"teresa awuor","washington omondi",2020-10-14,20:02:00
+1081,761,28,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-19,14:21:00
+1091,771,38,impacted,"disimpaction closed",1500,P,"teresa awuor","washington omondi",2020-10-19,14:23:00
+1101,781,37,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-19,14:25:00
+1111,791,"not selected","not selected",consultation,200,P,"teresa awuor","washington omondi",2020-10-19,14:28:00
+1121,801,48,impacted,"disimpaction closed",1500,P,"teresa awuor","washington omondi",2020-10-19,14:31:00
+1131,811,17,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-22,07:40:00
+1141,841,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-22,10:14:00
+1151,841,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-22,10:14:00
+1161,851,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-22,10:16:00
+1171,861,11,carious,"RCT lower molars",4000,P,"teresa awuor","washington omondi",2020-10-22,10:19:00
+1181,861,"not selected",carious,RCT,3000,P,"teresa awuor","washington omondi",2020-10-22,10:20:00
+1191,871,"not selected","not selected",consultation,200,P,"not selected","not selected",2020-10-22,10:22:00
+1201,891,14,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,08:40:00
+1211,891,15,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,08:40:00
+1221,891,35,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,08:40:00
+1231,901,"not selected","not selected",consultation,200,P,"teresa awuor","washington omondi",2020-10-28,08:47:00
+1241,911,47,carious,extraction,700,P,"Maureen Awuor","washington omondi",2020-10-28,09:06:00
+1242,912,46,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:11:00
+1251,922,18,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-28,09:18:00
+1261,931,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-28,09:29:00
+1271,941,65,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-28,09:34:00
+1281,951,74,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:43:00
+1291,951,75,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:44:00
+1301,961,24,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:49:00
+1311,961,48,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:49:00
+1321,511,37,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,09:50:00
+1331,981,54,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,10:02:00
+1341,981,64,carious,filling,2000,P,"teresa awuor","washington omondi",2020-10-28,10:02:00
+1351,981,55,carious,RCT,3000,P,"teresa awuor","washington omondi",2020-10-28,10:03:00
+1361,991,46,"abss ca",extraction,700,P,"teresa awuor","washington omondi",2020-10-28,10:08:00
+1371,1001,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-10-28,10:23:00
+1381,1021,"not selected",carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-05,07:33:00
+1391,1031,"not selected",carious,extraction,700,P,"teresa awuor","not selected",2020-11-05,10:11:00
+1401,1041,"not selected",carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-06,06:24:00
+1411,1041,"not selected",carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-06,06:24:00
+1421,1051,"not selected","perio mobile",extraction,700,P,"teresa awuor","washington omondi",2020-11-06,06:26:00
+1431,1061,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-06,06:28:00
+1441,1081,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-06,06:33:00
+1451,1101,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:32:00
+1461,1101,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:32:00
+1471,1111,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:35:00
+1481,1121,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:39:00
+1491,1161,45,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:46:00
+1501,1171,18,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:48:00
+1511,1181,18,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,07:50:00
+1521,1191,47,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,11:52:00
+1531,1201,37,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-10,12:08:00
+1541,1211,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-13,05:49:00
+1551,1221,"not selected",impacted,"disimpaction closed",1500,P,"teresa awuor","washington omondi",2020-11-13,05:52:00
+1561,1231,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-13,05:56:00
+1571,1241,37,"retained root",RCT,3000,P,"teresa awuor","washington omondi",2020-11-13,05:59:00
+1581,1251,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-13,06:02:00
+1591,1261,38,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-13,06:03:00
+1601,1271,26,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:17:00
+1611,1291,18,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:23:00
+1621,1311,27,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:26:00
+1631,1321,26,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:29:00
+1641,1331,17,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:30:00
+1651,1341,17,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-17,05:32:00
+1661,1361,47,carious,"RCT lower molars",4000,P,"teresa awuor","washington omondi",2020-11-18,05:39:00
+1671,1361,47,carious,"RCT lower molars",4000,P,"teresa awuor","washington omondi",2020-11-18,05:39:00
+1681,1371,47,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-18,05:40:00
+1691,1381,48,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-18,05:42:00
+1701,1401,37,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-18,05:48:00
+1711,1411,46,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-18,05:50:00
+1721,1421,26,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-18,05:54:00
+1731,1441,16,carious,filling,2000,P,"teresa awuor","washington omondi",2020-11-19,06:15:00
+1741,1451,36,carious,FMS,3000,P,"teresa awuor","washington omondi",2020-11-19,06:17:00
+1751,1461,36,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-19,06:19:00
+1761,1471,"not selected","not selected",FMS,3000,P,"teresa awuor","washington omondi",2020-11-19,06:21:00
+1771,1481,"not selected",drysocket,"Incision and drainage",1500,P,"teresa awuor","washington omondi",2020-11-19,06:23:00
+1781,1491,85,"abss ca",extraction,700,P,"teresa awuor","washington omondi",2020-11-19,06:26:00
+1791,1501,28,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-19,06:29:00
+1801,1511,38,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-19,06:33:00
+1811,1521,38,carious,extraction,700,P,"teresa awuor","washington omondi",2020-11-19,06:34:00
+1821,1531,17,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:29:00
+1831,1541,27,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:31:00
+1841,1551,18,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:33:00
+1851,1561,26,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:35:00
+1861,1571,46,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:37:00
+1871,1581,46,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:38:00
+1881,1601,38,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:42:00
+1891,1611,24,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:43:00
+1901,1621,46,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:46:00
+1911,1631,85,carious,extraction,700,P,"teresa awuor","not selected",2020-11-23,05:47:00
+1921,1641,75,pericoronitis,filling,2000,P,"teresa awuor","Lizy ACHIENG",2020-11-25,05:39:00
+1931,1651,38,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-25,05:45:00
+1941,1661,27,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-25,05:49:00
+1951,1671,48,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-25,05:52:00
+1961,1671,48,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-25,05:53:00
+1971,1681,36,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-26,07:47:00
+1981,1691,46,carious,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-26,07:49:00
+1991,1701,"not selected","not selected",consultation,200,P,"teresa awuor","Lizy ACHIENG",2020-11-26,07:50:00
+2001,1711,36,perio,extraction,700,P,"teresa awuor","Lizy ACHIENG",2020-11-26,07:52:00
